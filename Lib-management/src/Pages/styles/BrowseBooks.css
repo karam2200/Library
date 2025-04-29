@@ -1,0 +1,10 @@
+.browse-books {
+    padding: 2rem;
+    text-align: center;
+  }
+  .browse-books input {
+    padding: 0.5rem;
+    margin: 1rem 0;
+    width: 60%;
+  }
+  

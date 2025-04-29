@@ -1,0 +1,18 @@
+.book-details {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .book-details button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  

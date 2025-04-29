@@ -1,0 +1,17 @@
+.home {
+    padding: 2rem;
+    text-align: center;
+  }
+  .categories {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  .books-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  

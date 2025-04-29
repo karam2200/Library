@@ -1,0 +1,29 @@
+.add-book-form {
+    max-width: 500px;
+    margin: 2rem auto;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .add-book-form input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  .add-book-form button {
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .error {
+    color: red;
+    margin-bottom: 1rem;
+  }
+  
