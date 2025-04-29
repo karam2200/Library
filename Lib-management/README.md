@@ -1,12 +1,21 @@
-# React + Vite
+# Online Library System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web-based library app built with React and Redux. Users can browse, search, view details, and add books to a virtual library categorized by genre.
 
-Currently, two official plugins are available:
+## Features
+ Home page with welcome message and book categories
+ Browse books by category with dynamic routing
+ Search books by title or author
+ View detailed book information
+ Add a new book with form validation (uses Redux)
+ 404 page for undefined routes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+ React
+ React Router
+ Redux Toolkit
+ Plain CSS
 
-## Expanding the ESLint configuration
+## Github link
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/karam2200/Library
